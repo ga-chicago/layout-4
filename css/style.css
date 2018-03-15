@@ -1,0 +1,43 @@
+body {
+	background-color: #CE99FF;
+}
+body * {
+	background-color: white;
+	border: 2px dashed black;
+/*	margin-top: 2vh;
+	margin-left: 1vw;
+/*	margin-right: 1vh;
+*/}
+header {
+	width: 26vw;
+	margin-right: 15vw;
+	margin-top: 1vh;
+}
+footer {
+	margin-top: 2vh;
+}
+header, footer {
+	height: 15vh;
+}
+header, nav {
+	display: inline-block;
+}
+section {
+	height: 40vh;
+	display: block;
+	margin-top: 2vh;
+}
+.third {
+	width: 30vw;
+	height: 15vh;
+	display: inline-block;
+	margin-right: 2vh;
+}
+nav {
+	height: 10vh;
+ 	width: 10vw;
+ 	margin-left: 2vw;
+}
+a {
+	border: none;
+}
