@@ -1,0 +1,35 @@
+body * {
+	background-color:rgb(200,200,200);
+	margin:20px;
+
+}
+
+header{
+	height:150px;
+	width:20%;
+	display: inline-block;
+	margin-right: 435px;
+}
+
+nav{
+	height: 50px;
+	width:10%;
+	background-color:rgb(200,200,200);
+	display: inline-block;
+	margin-left: -10px;
+
+	
+}
+
+section{
+	height: 300px ;
+}
+
+aside{
+	height:250px;
+	display:inline-block;
+	width:30%;
+}
+footer{
+	height: 150px;
+}
