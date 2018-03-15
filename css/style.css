@@ -3,24 +3,40 @@ body {
 }
 body * {
 	background-color: gray;
+	margin: 8px;
+	padding:3px;
 
 }
-div .row {
-	border: 1px solid black;
+
+	
+
+
+div.column1, .column2, .column3 {
+	display: inline-block;
+	height: 60px;
+	width: 40px;
+
 
 }
-div .row2 {
+aside.blue, .green, .red {
+
 	border: 1px solid black;
+	height: 50px;
+	width: 60px;
+	display: inline-block;
+}
 }
 section {
 	border: : 1px solid black;
+	height: 45vh;
+	width: 35vw;
 }
 footer {
 	border: 1px solid black;
 	margin-top: 20px;
-margin-bottom: 20px;
-margin-left: auto;
-margin-right: auto;
-height: 20vh;
-width: 100%;
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 20vh;
+	width: 100%;
 }
