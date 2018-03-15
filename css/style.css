@@ -1,0 +1,26 @@
+body {
+	border: 2px inline black;
+}
+body * {
+	background-color: gray;
+
+}
+div .row {
+	border: 1px solid black;
+
+}
+div .row2 {
+	border: 1px solid black;
+}
+section {
+	border: : 1px solid black;
+}
+footer {
+	border: 1px solid black;
+	margin-top: 20px;
+margin-bottom: 20px;
+margin-left: auto;
+margin-right: auto;
+height: 20vh;
+width: 100%;
+}
