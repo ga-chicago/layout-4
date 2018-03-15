@@ -44,7 +44,6 @@ nav {
 	margin-right: 12px;
 
 
-
 }
 
 .navcontainer {
@@ -65,7 +64,7 @@ nav {
 .gridcontainer2 {
 	display: grid;
 	grid-template-columns: auto auto auto;
-	grid-gap: 24px
+	grid-gap: 24px;
 	height: 30px;
 
 }
